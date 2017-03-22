@@ -1,1 +1,1 @@
-# fdx-oss-strike
+# sfdx-oss-strike
